@@ -1,16 +1,20 @@
-Data Warehouse And Analytics Project
+# Data Warehouse And Analytics Project
 
 
 
 
 
+WELCOME TO THE **Data warehouse and Analytics Project**
 
-Building the data warehouse
+---
+### Project Requirements
 
-Objective
+### Bulding the data warehouse 
+
+### Objective
 Develop a modern data wearhouse using SQL server to consolidate sales data,enabling analytical and informed decision-making.
 
-Specifications
+#### Specifications
 --Data Sources-- Import data form tow source systems (ERP and CRM) provided as CSV files.
 --Data Quality-- Cleanes and resolve data quality issues prior to analysis.
 --Integration--  combine both sources into a single, user-friendly data model designed for analytical queries.
@@ -19,10 +23,11 @@ Specifications
 
 
 
+---
 
-BI: Analytics and Reporing (Data analytics)
+### BI: Analytics and Reporing (Data analytics)
 
---Objective
+### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 --Customer Behavior--
 --Product Performance--
