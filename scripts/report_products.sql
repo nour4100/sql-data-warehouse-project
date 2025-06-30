@@ -60,6 +60,9 @@ DATEDIFF(month,MIN(order_date),MAX(order_date)) AS lifespan
 FROM base_query
 GROUP BY product_key,product_name,category,subcategory,cost
 )
+/*---------------------------------------------------------------------------
+  3) Final Query: Combines all product results into one output
+---------------------------------------------------------------------------*/
 --Segments products by revenue to identify High-Performers, Mid-Range, or Low-Performers.
 SELECT
 product_key,
